@@ -3,6 +3,6 @@
 Text preprocessing: Bag of words
 
 Algorithms:
-MultinomialNB Algorithm
+MultinomialNB Algorithm "\n"
 Passive Aggressive Classifier Algorithm
 Multinomial Algorithm using Hyperparameters
